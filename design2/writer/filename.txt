@@ -1,2 +1,0 @@
-Hi My name is Sudeep. I am going to test mongo db which
-is design 2.
